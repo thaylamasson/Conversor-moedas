@@ -13,7 +13,7 @@ Foi colocado em prática os aprendizados de:<br>
 https://thaylamasson.github.io/Conversor-moedas/
 <h2></h2>
 
-<img src="       " width="400px">
+<img src="https://github.com/thaylamasson/Conversor-moedas/assets/119693526/7ea2e51f-98e9-4d64-bc47-4f80405db725" width="400px">
 
 
 
