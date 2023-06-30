@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url(./assets/backgrownd.jpg);
+    background-size: 100%;
+}
+
+main {
+    width: 375px;
+    background: #F2EDDC;
+    border-radius: 20px;
+    margin: 15px auto;
+    padding: 23px 24px;
+}
+
+label {
+    color: #777777;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+select,
+input {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    height: 38px;
+    width: 100%;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #555555;
+}
+
+button {
+    background: #D9AD29;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    height: 48px;
+    font-weight: 700;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+section {
+    border: 1px solid #222126;
+    border-radius: 20px;
+    margin-top: 25px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.arrow-img {
+    margin: 10px 0;
+}
+
+.currency-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.currency-value, .currency-value-to-convert {
+    font-weight: 700;
+    font-size: 20px;
+}
